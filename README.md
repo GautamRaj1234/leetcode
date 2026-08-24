@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/GautamRaj1234/leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/GautamRaj1234/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/GautamRaj1234/leetcode/tree/master/0013-roman-to-integer) |
+| [1872-stone-game-viii](https://github.com/GautamRaj1234/leetcode/tree/master/1872-stone-game-viii) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,4 +33,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/GautamRaj1234/leetcode/tree/master/0002-add-two-numbers) |
+## Array
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/GautamRaj1234/leetcode/tree/master/1872-stone-game-viii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/GautamRaj1234/leetcode/tree/master/1872-stone-game-viii) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/GautamRaj1234/leetcode/tree/master/1872-stone-game-viii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/GautamRaj1234/leetcode/tree/master/1872-stone-game-viii) |
+## Game Theory
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/GautamRaj1234/leetcode/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/GautamRaj1234/leetcode/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
