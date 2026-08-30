@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/GautamRaj1234/leetcode/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/GautamRaj1234/leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/GautamRaj1234/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/GautamRaj1234/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/GautamRaj1234/leetcode/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/GautamRaj1234/leetcode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/GautamRaj1234/leetcode/tree/master/0021-merge-two-sorted-lists) |
 ## Array
 |  |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/GautamRaj1234/leetcode/tree/master/0010-regular-expression-matching) |
 | [1872-stone-game-viii](https://github.com/GautamRaj1234/leetcode/tree/master/1872-stone-game-viii) |
 ## Minimax
 |  |
