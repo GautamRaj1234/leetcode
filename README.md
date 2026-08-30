@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/GautamRaj1234/leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/GautamRaj1234/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/GautamRaj1234/leetcode/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/GautamRaj1234/leetcode/tree/master/0067-add-binary) |
 | [1872-stone-game-viii](https://github.com/GautamRaj1234/leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/GautamRaj1234/leetcode/tree/master/1927-sum-game) |
 ## Hash Table
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/GautamRaj1234/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/GautamRaj1234/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/GautamRaj1234/leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/GautamRaj1234/leetcode/tree/master/0067-add-binary) |
 | [1927-sum-game](https://github.com/GautamRaj1234/leetcode/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/GautamRaj1234/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Stack
@@ -123,4 +125,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1927-sum-game](https://github.com/GautamRaj1234/leetcode/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/GautamRaj1234/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/GautamRaj1234/leetcode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/GautamRaj1234/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
