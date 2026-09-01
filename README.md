@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GautamRaj1234/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/GautamRaj1234/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/GautamRaj1234/leetcode/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/GautamRaj1234/leetcode/tree/master/0046-permutations) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/GautamRaj1234/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1872-stone-game-viii](https://github.com/GautamRaj1234/leetcode/tree/master/1872-stone-game-viii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/GautamRaj1234/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -176,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/GautamRaj1234/leetcode/tree/master/0018-4sum) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/GautamRaj1234/leetcode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
