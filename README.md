@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/GautamRaj1234/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/GautamRaj1234/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/GautamRaj1234/leetcode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/GautamRaj1234/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/GautamRaj1234/leetcode/tree/master/0067-add-binary) |
 | [1872-stone-game-viii](https://github.com/GautamRaj1234/leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/GautamRaj1234/leetcode/tree/master/1927-sum-game) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/GautamRaj1234/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/GautamRaj1234/leetcode/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/GautamRaj1234/leetcode/tree/master/0046-permutations) |
+| [0066-plus-one](https://github.com/GautamRaj1234/leetcode/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/GautamRaj1234/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1872-stone-game-viii](https://github.com/GautamRaj1234/leetcode/tree/master/1872-stone-game-viii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/GautamRaj1234/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
