@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/GautamRaj1234/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/GautamRaj1234/leetcode/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/GautamRaj1234/leetcode/tree/master/0041-first-missing-positive) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/GautamRaj1234/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/GautamRaj1234/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GautamRaj1234/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/GautamRaj1234/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/GautamRaj1234/leetcode/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/GautamRaj1234/leetcode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/GautamRaj1234/leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/GautamRaj1234/leetcode/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/GautamRaj1234/leetcode/tree/master/0066-plus-one) |
