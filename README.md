@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/GautamRaj1234/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/GautamRaj1234/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/GautamRaj1234/leetcode/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/GautamRaj1234/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/GautamRaj1234/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/GautamRaj1234/leetcode/tree/master/0067-add-binary) |
 | [1872-stone-game-viii](https://github.com/GautamRaj1234/leetcode/tree/master/1872-stone-game-viii) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/GautamRaj1234/leetcode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/GautamRaj1234/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/GautamRaj1234/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/GautamRaj1234/leetcode/tree/master/0050-powx-n) |
 ## Array
 |  |
 | ------- |
