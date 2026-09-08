@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GautamRaj1234/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/GautamRaj1234/leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/GautamRaj1234/leetcode/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/GautamRaj1234/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/GautamRaj1234/leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/GautamRaj1234/leetcode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/GautamRaj1234/leetcode/tree/master/0041-first-missing-positive) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/GautamRaj1234/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/GautamRaj1234/leetcode/tree/master/0035-search-insert-position) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/GautamRaj1234/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Tree
